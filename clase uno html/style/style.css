@@ -1,0 +1,144 @@
+#mensaje {
+  width: 50px;
+}
+
+#facebook {
+  width: 50px;
+}
+
+#instagram {
+  width: 50px;
+}
+
+#whatsapp {
+  width: 50px;
+}
+
+.logo {
+  width: 50px;
+}
+
+.botones {
+  float: right;
+  font-size: medium;
+  font-weight: 300;
+  color: white;
+  display: inline;
+}
+#logo {
+  font-size: medium;
+  font-weight: 500;
+  color: white;
+}
+
+.textoprincipalhome {
+  color: white;
+  text-align: center;
+}
+.homefondo {
+  background-position: center center;
+  text-align: center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 1335px;
+  height: 500px;
+}
+.descripcion {
+  font-size: large;
+  font-weight: 200;
+  float: right;
+  width: 600px;
+  color: white;
+  margin-top: 200px;
+}
+
+.imagenyo {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+#yo {
+  width: 400px;
+  background-position: left;
+  margin-left: 100px;
+}
+
+.black-background{
+  background-color: black;
+}
+.contactoimg {
+  background: url(../img/contactanos.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 70vh;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactoimg > .container {
+  text-align: center;
+}
+
+.textocontacto {
+  background: transparent;
+  display: table;
+  flex-direction: column;
+  height: 100px;
+  font-size: larger;
+  color: white;
+  float: left;
+  margin: 0%;
+  margin-top: 50px;
+}
+
+.formulariocontacto {
+  text-align: right;
+  font-size: 20px;
+}
+
+.anv {
+  background-color: black;
+  color: white;
+}
+
+.colorDeA {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.imagenunitealequipo {
+  background-image: url(../img/foto\ unite\ al\ equipo.jpg);
+  background-position: center center;
+  text-align: center;
+  background-size: cover;
+  height: 500px;
+}
+
+.formularioalin {
+  text-align: center;
+  font-size: 20px;
+}
+
+.top {
+  text-align: left;
+}
+.footer {
+  text-align: center;
+}
+.stilofooter {
+  padding: 20px;
+  color: white;
+
+}
+
+.stilofooter > img{
+  width: 3vw;
+  height: auto;
+}
